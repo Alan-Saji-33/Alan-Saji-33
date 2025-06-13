@@ -1,7 +1,7 @@
 <h1 align="center">👾 Alan Saji: The ChatGPT Code Sorcerer! 🪄</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FF00FF&size=20&center=true&vCenter=true&width=600&lines=Prompting+AI+to+Code+Like+a+Pro!;Ctrl+C,+Ctrl+V,+ChatGPT+FTW!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FF00FF&size=20¢er=true&vCenter=true&width=700&lines=Prompting+AI+to+Code+Like+a+Pro!;Ctrl+C,+Ctrl+V,+ChatGPT+FTW!" alt="Typing SVG" />
 </p>
 
 <p align="center">
