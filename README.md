@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="86" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNvcXJuamJ0OXZzeTQyMm8xZW9tNHY4MzYyMWlvanF6dGl6cW40dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2tzon8OCC7BqmY/giphy.gif"  />
+<img align="right" height="100" style="object-fit: contain;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNvcXJuamJ0OXZzeTQyMm8xZW9tNHY4MzYyMWlvanF6dGl6cW40dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2tzon8OCC7BqmY/giphy.gif" alt="coding gif" />
 
 ###
 
@@ -32,3 +32,4 @@
 ###
 
 <p align="left">🚀 <b>Chat GPT Programmer!</b></p>
+<p align="left">🚀 <b>Ctrl+C   Ctrl+V</b></p>
