@@ -32,4 +32,4 @@
 ###
 
 <p align="left">🚀 <b>Chat GPT Programmer!</b></p>
-<p align="left">🚀 <b>Ctrl+C   Ctrl+V</b></p>
+<p align="left">⌨️ <b>Ctrl+C   Ctrl+V</b></p>
