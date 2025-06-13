@@ -53,7 +53,7 @@
 
 ### 🌟 Connect with the Code Lord
 <div align="center">
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
+  <a href="https://discord.gg/22mGfCGAqw" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=Join%20the%20Chaos" alt="Discord" />
   </a>
   <a href="https://github.com/Alan-Saji-33" target="_blank">
