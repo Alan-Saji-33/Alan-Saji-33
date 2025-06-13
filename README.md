@@ -5,59 +5,31 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT%20Ninja-%E2%9A%A1%20Prompts%20to%20Pixels!-ff69b4?style=plastic&logo=openai" alt="ChatGPT Ninja Badge" style="animation: glow 2s ease-in-out infinite;" />
+  <img src="https://img.shields.io/badge/ChatGPT%20Ninja-%E2%9A%A1%20Prompts%20to%20Pixels!-ff69b4?style=plastic&logo=openai" alt="ChatGPT Ninja Badge" />
 </p>
 
 <h3 align="center">🎮 Spinning Code, Memes, and AI Vibes Since '25! ☕</h3>
 
-<style>
-  @keyframes glow {
-    0% { box-shadow: 0 0 5px #ff69b4; }
-    50% { box-shadow: 0 0 20px #ff69b4, 0 0 30px #ff00ff; }
-    100% { box-shadow: 0 0 5px #ff69b4; }
-  }
-  @keyframes fadeIn {
-    0% { opacity: 0; transform: translateY(10px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
-  .social-badge:hover {
-    transform: scale(1.1);
-    transition: transform 0.3s ease;
-  }
-  .lang-icon {
-    animation: fadeIn 1s ease-out forwards;
-  }
-  .gif-container {
-    float: right;
-    margin-left: 20px;
-    margin-bottom: 10px;
-  }
-</style>
-
 ---
 
 ### 🖥️ Pixelated Power-Ups
-<div class="gif-container">
-  <img height="160" style="object-fit: contain;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl2ODJjYWg5NnF0Mmk5Y2R0c3E3MTFnaWlsZzV4dmc4YjR1a252MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="coding gif" />
-</div>
+<img align="right" height="160" style="object-fit: contain;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl2ODJjYWg5NnF0Mmk5Y2R0c3E3MTFnaWlsZzV4dmc4YjR1a252MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="coding gif" />
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" class="lang-icon" style="animation-delay: 0.1s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" class="lang-icon" style="animation-delay: 0.2s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" class="lang-icon" style="animation-delay: 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo" class="lang-icon" style="animation-delay: 0.4s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" class="lang-icon" style="animation-delay: 0.5s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" class="lang-icon" style="animation-delay: 0.6s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" class="lang-icon" style="animation-delay: 0.7s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
 </div>
-
-<div style="clear: both;"></div>
 
 ---
 
@@ -82,10 +54,10 @@
 ### 🌟 Connect with the Code Lord
 <div align="center">
   <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=Join%20the%20Chaos" alt="Discord" class="social-badge" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=Join%20the%20Chaos" alt="Discord" />
   </a>
   <a href="https://github.com/Alan-Saji-33" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Stalk%20My%20Code" alt="GitHub" class="social-badge" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Stalk%20My%20Code" alt="GitHub" />
   </a>
 </div>
 
