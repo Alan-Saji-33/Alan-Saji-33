@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="100" style="object-fit: contain;" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNvcXJuamJ0OXZzeTQyMm8xZW9tNHY4MzYyMWlvanF6dGl6cW40dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2tzon8OCC7BqmY/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl2ODJjYWg5NnF0Mmk5Y2R0c3E3MTFnaWlsZzV4dmc4YjR1a252MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif)" alt="coding gif" />
+<img align="right" height="100" style="object-fit: contain;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl2ODJjYWg5NnF0Mmk5Y2R0c3E3MTFnaWlsZzV4dmc4YjR1a252MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="coding gif" />
 
 ###
 
@@ -32,4 +32,5 @@
 ###
 
 <p align="left">🚀 <b>Chat GPT Programmer!</b></p>
-<p align="left">⌨️ <b>Ctrl+C   Ctrl+V</b></p>
+<p align="left">⌨️ <b> Ctrl+C </b> </p>
+<p align="left">⌨️ <b> Ctrl+V </b> </p>
