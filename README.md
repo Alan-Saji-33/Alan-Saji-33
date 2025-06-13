@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/ChatGPT%20Ninja-%E2%9A%A1%20Prompts%20to%20Pixels!-ff69b4?style=plastic&logo=openai" alt="ChatGPT Ninja Badge" />
 </p>
 
-<h3 align="center">🎮 Spinning Code, Memes, and AI Vibes Since '25! ☕</h3>
+<h3 align="center">🎮 Spinning Code, Memes, and AI Vibes! ☕</h3>
 
 ---
 
