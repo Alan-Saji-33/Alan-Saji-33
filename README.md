@@ -1,7 +1,7 @@
 <h1 align="center">👾 Alan Saji: The ChatGPT Code Sorcerer! 🪄</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FF00FF&size=20&center=true&vCenter=true&width=500&lines=Prompting+AI+to+Code+Like+a+Pro!;Ctrl+C,+Ctrl+V,+ChatGPT+FTW!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FF00FF&size=20&center=true&vCenter=true&width=600&lines=Prompting+AI+to+Code+Like+a+Pro!;Ctrl+C,+Ctrl+V,+ChatGPT+FTW!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,14 +9,6 @@
 </p>
 
 <h3 align="center">🎮 Spinning Code, Memes, and AI Vibes Since '25! ☕</h3>
-
----
-
-### 📊 My Coding Saga
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alan-Saji-33&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alan-Saji-33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
-</div>
 
 ---
 
