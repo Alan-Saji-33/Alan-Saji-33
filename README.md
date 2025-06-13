@@ -10,42 +10,26 @@
 
 <h3 align="center">🎮 Spinning Code, Memes, and AI Vibes Since '25! ☕</h3>
 
-<style>
-  @keyframes bounceIn {
-    0% { opacity: 0; transform: scale(0.3) translateY(20px); }
-    50% { opacity: 1; transform: scale(1.2) translateY(-5px); }
-    70% { transform: scale(0.9); }
-    100% { opacity: 1; transform: scale(1) translateY(0); }
-  }
-  .lang-icon {
-    animation: bounceIn 0.8s ease-out forwards;
-  }
-</style>
-
 ---
 
 ### 🖥️ Pixelated Power-Ups
-<div style="float: right; margin-left: 20px; margin-bottom: 10px;">
-  <img height="160" style="object-fit: contain;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl2ODJjYWg5NnF0Mmk5Y2R0c3E3MTFnaWlsZzV4dmc4YjR1a252MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="coding gif" />
-</div>
+<img align="right" height="160" style="object-fit: contain;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl2ODJjYWg5NnF0Mmk5Y2R0c3E3MTFnaWlsZzV4dmc4YjR1a252MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="coding gif" />
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" class="lang-icon" style="animation-delay: 0.1s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" class="lang-icon" style="animation-delay: 0.2s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" class="lang-icon" style="animation-delay: 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo" class="lang-icon" style="animation-delay: 0.4s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" class="lang-icon" style="animation-delay: 0.5s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" class="lang-icon" style="animation-delay: 0.6s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" class="lang-icon" style="animation-delay: 0.7s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
 </div>
-
-<div style="clear: both;"></div>
 
 ---
 
