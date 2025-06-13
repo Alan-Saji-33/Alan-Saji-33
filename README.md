@@ -30,3 +30,5 @@
 </div>
 
 ###
+
+<p align="left">🚀 <b>Crafting intelligent bots with ChatGPT magic and Discord.js flair!</b></p>
