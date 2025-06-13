@@ -30,12 +30,3 @@
 </div>
 
 ###
-
-<div align="left">
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Alan-Saji-33/Alan-Saji-33/output/snake.svg" alt="Snake animation" />
-
-###
