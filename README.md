@@ -43,15 +43,10 @@
 <p align="left">⌨️ <b>Ctrl+V</b>: Paste it, pray it works, repeat! 🙏</p>
 <p align="left">💾 <b>ChatGPT</b>: My sidekick for turning prompts into epic bots! 🤝</p>
 
----
-
-### 😂 Code Meme of the Day
-> "Me: *Asks ChatGPT to fix my code*<br>
-> ChatGPT: *Invents a new bug to keep me humble* 😭"
 
 ---
 
-### 🌟 Connect with the Code Lord
+### 🌟 Connect with me
 <div align="center">
   <a href="https://discord.gg/22mGfCGAqw" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=Join%20the%20Chaos" alt="Discord" />
