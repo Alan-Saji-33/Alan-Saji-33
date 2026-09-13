@@ -61,10 +61,7 @@ I enjoy learning new technologies, turning ideas into working software, and cont
 
 ### GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alan-Saji-33&show_icons=true&hide_border=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Saji-33&layout=compact&hide_border=true&theme=transparent" height="160" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Alan-Saji-33&show_icons=true&hide_border=true&theme=transparent" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Saji-33&layout=compact&hide_border=true&theme=transparent" height="160" /> </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-Saji-33&hide_border=true&theme=transparent" />
