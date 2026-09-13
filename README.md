@@ -17,7 +17,7 @@
 
 ### About
 
-I'm a software developer interested in building practical applications, exploring AI, and contributing to open-source projects.
+I'm a software developer interested in building practical applications, exploring AI, and working with modern technologies.
 
 I enjoy learning new technologies, turning ideas into working software, and continuously improving my development workflow.
 
