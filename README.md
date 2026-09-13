@@ -1,7 +1,7 @@
 <h1 align="center">Alan Saji</h1>
 
 <p align="center">
-  <b>Software Developer · AI Enthusiast · Open Source</b>
+  <b>Software Developer · AI Enthusiast · Technology Explore</b>
 </p>
 
 <p align="center">
