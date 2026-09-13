@@ -63,5 +63,5 @@ I enjoy learning new technologies, turning ideas into working software, and cont
 ---
 
 <p align="center">
-  <sub>Building software, learning continuously, and contributing to open source.</sub>
+  <sub>Building software, exploring new technologies, and turning ideas into reality.</sub>
 </p>
